@@ -1,2 +1,2 @@
 # delta-demo
-First Repository created.
+First Repository created
